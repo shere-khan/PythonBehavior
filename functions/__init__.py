@@ -28,3 +28,7 @@ if __name__ == '__main__':
     # print("list after change_list", a)
 
     function_test(a='first arg', b='second arg', c='third arg')
+
+    string = 'justin'
+    print(string[:1])
+    print(string[1:])
